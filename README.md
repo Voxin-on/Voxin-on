@@ -29,3 +29,5 @@ I'm Voxin-on, an 18-year-old first-year student from Irkutsk, Russia. Currently,
 
 ### 📈 My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Voxin-on&show_icons=true&theme=dark" alt="My GitHub Stats" />
+
+![LeetCode Stats](https://leetcode.card.workers.dev/?username=Voxin_&theme=auto)
